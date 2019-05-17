@@ -98,13 +98,6 @@
       "type": "shell",
       "script": "mysqlconf.sh"
       
-    },
-	
-	
-	 {
-      "type": "shell",
-      "script": "mysqltableupdate.sh"
-      
     }
 	]
 }
